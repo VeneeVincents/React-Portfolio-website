@@ -1,6 +1,6 @@
 header{
-    height: 100vh;
-    padding-top: 7rem;
+    height: 50vh;
+    padding-top: 4rem;
     overflow: hidden;
 }
 .header__container{
@@ -15,18 +15,16 @@ header{
     justify-content: center;
 }
 .header__socials {
+    margin-top: 2rem;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.8rem;
-    position: absolute;
-    left: 0;
-    bottom: 3rem;
+    gap: 1.2rem;
+    justify-content: center;
+   
 }
 .header__socials ::after {
     content: '';
-    width: 1px;
-    height: 2rem;
+    width: 20px;
+    height: 16rem;
     background: var(--color-primary);
 }
 
@@ -41,15 +39,14 @@ header{
 }
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 20vh;
     }
 
 } 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 40vh;
     }
-    .header__socials,
     .scroll__down {
         display: none;
     }

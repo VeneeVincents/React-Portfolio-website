@@ -31,15 +31,11 @@ const Services = () => {
        </li>
        <li>
          <GiCheckMark className='service__list-icon' />
-         <p> Logo creation</p>
+         <p> Mobile App Re-skin</p>
        </li>
        <li>
          <GiCheckMark className='service__list-icon' />
          <p> Card design</p>
-       </li>
-       <li>
-         <GiCheckMark className='service__list-icon' />
-         <p> Poster creation</p>
        </li>
        </ul>
      </article>
@@ -57,10 +53,7 @@ const Services = () => {
          <GiCheckMark className='service__list-icon' />
          <p> Website re-design</p>
        </li>
-       <li>
-         <GiCheckMark className='service__list-icon' />
-         <p>Content creation</p>
-       </li>
+       
        <li>
          <GiCheckMark className='service__list-icon' />
          <p> Responsive web-App design</p>
@@ -87,11 +80,7 @@ const Services = () => {
        <ul className='service__list'>
        <li>
          <GiCheckMark className='service__list-icon' />
-         <p> Transcription</p>
-       </li>
-       <li>
-         <GiCheckMark className='service__list-icon' />
-         <p> NFT minting and Blockchain services</p>
+         <p> NFT minting</p>
        </li>
        <li>
          <GiCheckMark className='service__list-icon' />
@@ -103,11 +92,15 @@ const Services = () => {
        </li>
        <li>
          <GiCheckMark className='service__list-icon' />
-         <p> Admob ads services</p>
+         <p> Admob ads monetization services</p>
        </li>
        <li>
          <GiCheckMark className='service__list-icon' />
-         <p>Data Analysis</p>
+         <p>Video Editing</p>
+       </li>
+       <li>
+         <GiCheckMark className='service__list-icon' />
+         <p>Camera and Wi-fi Installation</p>
        </li>
        </ul>
      </article>

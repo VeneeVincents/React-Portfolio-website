@@ -31,13 +31,13 @@ const About = () => {
             <article className='about__card'>
               <RiFolderSettingsFill className='about__icon'/>
               <h5>Projects</h5>
-              <small>50+ Completed</small>
+              <small>20+ Completed</small>
             </article>
             </div>
 
             <p>
             Dynamic and creative software developer with over 3+ years of experience in producing robust code for clients. Eager to support the dev team at any company
-             with top-notch coding skills. In previous roles, an IT support at MAHIGA HOMES Kenya and also at Gatundu DCC'S OFFICE.
+             with top-notch coding skills.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

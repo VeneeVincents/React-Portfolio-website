@@ -20,35 +20,35 @@ const Experience = () => {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon' />
              <div>
-             <h4>CSS</h4>
-            <small className='text-light'>Intermediate</small>
-             </div>
-            </article>
-            <article className='experience__details'>
-            <BsPatchCheckFill className='experience__details-icon' />
-             <div>
-             <h4>JavaScript</h4>
+             <h4>CSS & Tailwind CSS</h4>
             <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon' />
              <div>
-             <h4>Bootstrap</h4>
+             <h4>JavaScript ES6 & ES7</h4>
             <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon' />
              <div>
-             <h4>React</h4>
+             <h4>Typescript</h4>
             <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon' />
              <div>
-             <h4>React Native</h4>
+             <h4>React Js</h4>
+            <small className='text-light'>Experienced</small>
+             </div>
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+             <div>
+             <h4>Next Js</h4>
             <small className='text-light'>Intermediate</small>
              </div>
             </article>
@@ -96,8 +96,8 @@ const Experience = () => {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon' />
              <div>
-             <h4>PHP</h4>
-            <small className='text-light'>Basic</small>
+             <h4>Sanity</h4>
+            <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experience__details'>
